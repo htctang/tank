@@ -1,0 +1,2 @@
+log4j1 和log4j2的区别？
+log4j1的配置文件 在mybaitsTest之下
